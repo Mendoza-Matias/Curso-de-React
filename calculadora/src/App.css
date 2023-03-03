@@ -1,0 +1,35 @@
+@font-face {
+    font-family:calculator;
+    src: url('./font/Calculator.ttf');
+}
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: calculator;
+
+}
+body{
+    background: lightblue;
+}
+.App{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 50px;
+}
+.contenedor-principal{
+    width: 400px;
+    height: 500px;
+    padding: 14px;
+    background: rgb(49, 48, 48);
+    border-radius: 10px;
+    border: 1px solid black;
+}
+.fila{
+    margin: 4px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
