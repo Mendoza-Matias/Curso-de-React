@@ -1,0 +1,25 @@
+
+button{
+    width: 120px;
+    height: 50px;
+    font-family: 'Times New Roman', Times, serif;
+    border: none;
+    border-radius: 5px;
+    font-size: 1.5rem;
+    font-weight: bold;
+    margin: 5px;
+    cursor: pointer;
+    color: black;
+    background: plum;
+    box-shadow: 0px 0px 4px black;
+}
+
+.boton-clic{
+    background-color: lightblue;
+}
+button:hover{
+    opacity: 0.8;
+}
+.boton-reiniciar{
+    background-color: burlywood;
+}

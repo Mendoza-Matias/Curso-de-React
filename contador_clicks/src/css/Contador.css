@@ -1,0 +1,9 @@
+.contador p{
+    margin-top: 1rem;
+    width: 200px;
+    border: 4px solid black;
+    border-radius: 2px;
+    background: white;
+    font-size: 5rem;
+}
+

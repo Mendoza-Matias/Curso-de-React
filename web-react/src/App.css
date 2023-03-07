@@ -1,0 +1,11 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    list-style: none;
+}
+body{
+    background-image: linear-gradient(to left,black , rgb(41, 37, 37));
+    background-size: cover;
+}
+
